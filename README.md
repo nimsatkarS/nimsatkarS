@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanket Nimsatkar</h1>
+!(https://github.com/nimsatkarS/nimsatkarS/assets/121743873/f7dd81c1-a9a8-4e34-b90a-ac6db7aa0796)
+
 <h3 align="center">Tech enthusiast and Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimsatkars&label=Profile%20views&color=0e75b6&style=flat" alt="nimsatkars" /> </p>
@@ -47,5 +49,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimsatkars&show_icons=true&locale=en" alt="nimsatkars" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nimsatkars&" alt="nimsatkars" /></p>
-
-![My-Profile]![gitprofile](https://github.com/nimsatkarS/nimsatkarS/assets/121743873/f7dd81c1-a9a8-4e34-b90a-ac6db7aa0796)
