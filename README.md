@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanket Nimsatkar</h1>
-!(https://github.com/nimsatkarS/nimsatkarS/assets/121743873/f7dd81c1-a9a8-4e34-b90a-ac6db7aa0796)
+![My-Profile](https://github.com/nimsatkarS/nimsatkarS/assets/121743873/f7dd81c1-a9a8-4e34-b90a-ac6db7aa0796)
 
 <h3 align="center">Tech enthusiast and Full Stack Web Developer</h3>
 
