@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sanket Nimsatkar</h1>
-![My-Profile](https://github.com/nimsatkarS/nimsatkarS/assets/121743873/f7dd81c1-a9a8-4e34-b90a-ac6db7aa0796)
+#######
+Hii !!
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
+
+<h1 align="center">Hi 👋, I'm Sanket Nimsatkar</h1>
 <h3 align="center">Tech enthusiast and Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimsatkars&label=Profile%20views&color=0e75b6&style=flat" alt="nimsatkars" /> </p>
