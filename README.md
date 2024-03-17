@@ -1,3 +1,22 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you. I'm Lovely</h1>
+<h3 align="center">|| A Tech Enthusiast & Software Developer ||</h3>
+- 📫 How to reach me **lovelycodes08@gmail.com**
+
+- :man_technologist: My recent project - **[Coaching Institute Website](https://tie-academy.vercel.app/)**
+
+
+## 🙋‍♂️ About Me
+
+- 🔭 I’m a Final Year Engineeing Student (CSE)
+- 🌱 I’m currently learning **Devops**
+
+- 👯 I like contributing to **OpenSource Projects**
+
+- 👨‍💻 Visit **[My Profile](https://github.com/CoderLovely08)**
+
+
 <h1 align="center">Hi 👋, I'm Sanket Nimsatkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
