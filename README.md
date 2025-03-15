@@ -60,13 +60,14 @@
 </p>
 
  <br/>
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderlovely08" alt="coderlovely08" /></a> </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimsatkarS" alt="nimsatkarS" /></a> </p>
   <br/>
-    <a href="https://github.com/CoderLovely08/github-readme-stats"><img alt="Lovely's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CoderLovely08&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/CoderLovely08/github-readme-stats"><img alt="Lovely's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderLovely08&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/nimsatkarS/github-readme-stats"><img alt="Sanket's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nimsatkarS&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/nimsatkarS/github-readme-stats"><img alt="Sanket's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimsatkarS&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
+
 
