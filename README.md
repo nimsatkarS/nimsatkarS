@@ -51,7 +51,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/sanket-nimsatkar-8ba295272/](https://www.linkedin.com/feed/?msgControlName=view_message_button&msgConversationId=2-NDE5Mjc5NDctNTQ0Zi00NGZmLThmNDUtYzc2MjY3ZjQ0MjQ3XzAxMA%3D%3D&msgOverlay=true&trk=false)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanket-nimsatkar-8ba295272/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanket-nimsatkar-8ba295272/(https://www.linkedin.com/feed/?msgControlName=view_message_button&msgConversationId=2-NDE5Mjc5NDctNTQ0Zi00NGZmLThmNDUtYzc2MjY3ZjQ0MjQ3XzAxMA%3D%3D&msgOverlay=true&trk=false)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanket-nimsatkar-8ba295272/" height="30" width="40" /></a>
  
 </p>
 
