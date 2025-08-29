@@ -18,7 +18,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sanket Nimsatkar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Salesforce developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimsatkars&label=Profile%20views&color=0e75b6&style=flat" alt="nimsatkars" /> </p>
 
@@ -26,7 +26,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **C | C++ |HTML | CSS | JAVASCRIPT | SALESFORCE | ADMIN | APEX PROGRAMING .**
+- 💬 Ask me about ** SALESFORCE | ADMIN | APEX PROGRAMING | LWC | SFDC AUTOMATION | APEX TRIGGER | SOQL | C & C++ | WEBDEVELOPMENT  .**
 
 - 📫 How to reach me **sanketanimsatkar@gmail.com**
 
